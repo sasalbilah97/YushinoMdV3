@@ -39,7 +39,7 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281321776496', 'Aisyah', true],
+['6281321776496', 'ᴹᴿ᭄defα͢͢͢ή፝֟͜* ×፝֟͜×', true],
 ['-', '-', true]
 ]
 global.mods = []
@@ -57,7 +57,7 @@ global.readMore = readMore
 global.author = 'Created ᴹᴿ᭄defα͢͢͢ή፝֟͜* ×፝֟͜×'
 global.namebot = '𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
-global.media = 'https://telegra.ph/file/02bfc8e01f4d622d75fcb.jpg''
+global.media = 'https://telegra.ph/file/02bfc8e01f4d622d75fcb.jpg'
 global.watermark = wm
 global.wm2 = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
